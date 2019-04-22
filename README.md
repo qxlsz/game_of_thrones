@@ -1,1 +1,1 @@
-# game_of_thrones
+## Python libraries to retrieve game of thrones details
