@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -rf /tmp/gt
 
 CWD=$(pwd)
 
