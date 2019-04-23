@@ -9,7 +9,7 @@ gameofthrones
     :alt: Supported Python versions
 
 .. image:: https://travis-ci.org/qxlsz/gameofthrones.svg?branch=master
-    :target: https://travis-ci.org/qxlsz/gameofthrones
+    :target: https://travis-ci.org/qxlsz/game_of_thrones
     :alt: Build Status
 
 Download and docs:
