@@ -18,4 +18,5 @@ Source code & Development:
     https://github.com/qxlsz/game_of_thrones
 
 A Python library for gameofthrones fans
-Thanks to @jeffreylancaster for maintaining awesome data base. 
+
+Cheers to @jeffreylancaster for GoT character info.
