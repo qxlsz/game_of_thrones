@@ -17,6 +17,7 @@ Download and docs:
 Source code & Development:
     https://github.com/qxlsz/game_of_thrones
 
-A Python library for gameofthrones fans
+A Python library for gameofthrones fans. 
+Requirements Python>=3.4
 
 Cheers to @jeffreylancaster for GoT character info.
