@@ -6,7 +6,7 @@
 __title__ = 'gameofthrones'
 __description__ = 'Python library to retrieve game of thrones info'
 __url__ = 'www.rajasekharjosyula.com'
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 __author__ = 'Rajasekhar Josyula'
 __author_email__ = 'rajasekhar.josyula@gmail.com'
 __license__ = 'MIT'
