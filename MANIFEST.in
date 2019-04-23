@@ -1,0 +1,3 @@
+include README.md LICENSE
+include gameofthrones/*
+include gameofthrones/data/*
