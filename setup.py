@@ -14,7 +14,7 @@ DESCRIPTION = 'CLI for gameofthrones content requester'
 URL = 'https://github.com/qxlsz/game_of_thrones'
 EMAIL = 'rajasekhar.josyula@gmail.com'
 AUTHOR = 'Rajasekhar Josyula'
-REQUIRES_PYTHON = '>=3.0'
+REQUIRES_PYTHON = '>=3.4'
 VERSION = None
 
 REQUIRED = [
